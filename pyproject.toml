@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "pycounts_cl"
-version = "0.1.0"
+version = "0.1.1"
 description = "524 Assignment 1"
 authors = ["Chun Li"]
 license = "MIT"
