@@ -10,7 +10,7 @@ $ pip install pycounts_cl
 
 ## Usage
 
-- TODO
+- Can count the number of characters from a given text file
 
 ## Contributing
 
